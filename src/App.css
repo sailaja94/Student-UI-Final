@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.table-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: blue;
+}
+
+.Success{
+margin-top:20px;
+margin-bottom:20px;
+color:green;
+}
+
+.button{
+width:15%;
+height:15%;
+background-color:blue;
+color:black;
+}
+
+.NavMenu ul {
+    background-color:chartreuse;
+    list-style: none;
+    padding: 0;
+    margin: 5px auto;
+    width: 100%;
+    text-align: left;
+    
+}
+
+.NavMenu li {
+    display: inline-block;
+    margin: 10px;
+    padding-left: 30px;
+}
+
+.NavMenu a {
+    text-decoration:none;
+    color: mediumvioletred;
+    text-size-adjust: 50%;
+}
+
+    .NavMenu a:hover,
+    .NavMenu a:active {
+        text-decoration: underline;
+        color: darkblue;
+    }

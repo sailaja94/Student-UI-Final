@@ -1,0 +1,20 @@
+th{
+background-color:black;
+color:lightpink;
+border: 0.5px solid #fff;
+}
+
+.odd{
+color: blue;
+}
+
+button.edit{
+border-color: blue;
+background-color: blue;
+
+}
+
+button.delete{
+border-color: orangered;
+background-color: orangered;
+}
